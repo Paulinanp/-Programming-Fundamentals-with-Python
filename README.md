@@ -7,4 +7,5 @@ Check and learn more about SoftUni here - https://softuni.bg
 - Basic Syntax, Conditional Statements and Loops - Exercises
 - Data Types and Variables - Lab
 - Data Types and Variables - Exercises
+- Data Types and Variables - More Exercises
 - Lists Basics - Lab
