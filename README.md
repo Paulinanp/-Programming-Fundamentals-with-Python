@@ -9,3 +9,4 @@ Check and learn more about SoftUni here - https://softuni.bg
 - Data Types and Variables - Exercises
 - Data Types and Variables - More Exercises
 - Lists Basics - Lab
+- Lists Basics - Exercises
